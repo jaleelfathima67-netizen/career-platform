@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Accredian Enterprise Landing Page Clone
 
 This project is a high-fidelity clone of the Accredian Enterprise landing page, built with Next.js 15, TypeScript, and Tailwind CSS.
@@ -39,3 +40,6 @@ This project is a high-fidelity clone of the Accredian Enterprise landing page, 
 -   **CMS Integration**: Connect the features and client logos to a headless CMS (like Sanity or Contentful).
 -   **Dynamic Routing**: Add individual pages for each certification program.
 -   **Analytics**: Integrate Vercel Analytics or Google Analytics for conversion tracking.
+=======
+# career-platform
+>>>>>>> 00123e36589d9cce4b41e1a25f92331869c3729d
